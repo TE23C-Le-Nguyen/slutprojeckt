@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "h5BIvVp75Ek=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gia.le\\pro1\\slutprojeckt\\slutprojeckt\\slutprojeckt.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gia.le\\.nuget\\packages\\raylib-cs\\7.0.1\\raylib-cs.7.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
