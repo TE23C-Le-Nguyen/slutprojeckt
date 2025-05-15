@@ -20,3 +20,4 @@ C:\Users\gia.le\pro1\slutprojeckt\slutprojeckt\obj\Debug\net8.0\refint\slutproje
 C:\Users\gia.le\pro1\slutprojeckt\slutprojeckt\obj\Debug\net8.0\slutprojeckt.pdb
 C:\Users\gia.le\pro1\slutprojeckt\slutprojeckt\obj\Debug\net8.0\slutprojeckt.genruntimeconfig.cache
 C:\Users\gia.le\pro1\slutprojeckt\slutprojeckt\obj\Debug\net8.0\ref\slutprojeckt.dll
+C:\Users\gia.le\pro1\slutprojeckt\slutprojeckt\obj\Debug\net8.0\slutprojeckt.sourcelink.json
